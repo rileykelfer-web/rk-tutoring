@@ -1,0 +1,48 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "RK Tutoring ATX"
+theme = "book-landing"
+
+[taxonomies]
+  tag = ""
+  category = ""
+
+[params]
+  #author = "Riley Kelfer"
+	
+  # Author Info (Site-wide defaults)
+  [params.author]
+	name = "Riley Kelfer"
+	image = "/images/IMG_5331.JPG"
+  
+  # Contact
+  [params.contact]
+    email = "contact@podbharati.com"
+    contactUrl = "https://podbharati.com/contact/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "#about-book"
+    weight = 2
+  [[menu.main]]
+    name = "Testimonials"
+    url = "#testimonials"
+    weight = 4
+  [[menu.main]]
+    name = "About Me"
+    url = "#author"
+    weight = 5
+  [[menu.main]]
+    name = "FAQ"
+    url = "#faq"
+    weight = 7

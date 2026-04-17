@@ -1,0 +1,29 @@
+[[features]]
+icon = "📝"
+title = "Homework Support"
+description = "Support for all manner of take-home assignments, from weekly spelling lists to Shakespearean drama, Pre-algebra, and science projects."
+
+[[features]]
+icon = "🎯"
+title = "Standardized Test Prep"
+description = "Support for state-level and national examinations including STAAR, PSAT, and SAT/ACT, so that students feel empowered to meet their goals."
+
+[[features]]
+icon = "📚"
+title = "Dyslexic Learning"
+description = "Structured Literacy teaching through The Orton-Gillingham approach, emphasizing student confidence and self-esteem for lasting outcomes."
+
+[[features]]
+icon = "🎓"
+title = "College Applications"
+description = "One-on-one mentorship for personal essays, cover letters, and other academic or vocational milestones."
+
+[[features]]
+icon = "🌱"
+title = "Curricular Enrichment"
+description = "Specialized education plans designed with parents, for students who have outpaced their prescribed curriculum."
+
+[[features]]
+icon = "🧩"
+title = "Social-Emotional Skills"
+description = "Patient coaching to help students regulate behavior, mood, and attentional challenges."
