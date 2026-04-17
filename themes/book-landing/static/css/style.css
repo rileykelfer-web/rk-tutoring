@@ -9,19 +9,19 @@
 
 :root {
     /* Blue/Green Color Scheme */
-    --primary-color: #0ea5e9; /* Sky Blue */
-    --primary-dark: #0284c7; /* Dark Blue */
-    --primary-light: #38bdf8; /* Light Blue */
+    --primary-color: #333333; /* Sky Blue */
+    --primary-dark: #000000; /* Dark Blue */
+    --primary-light: #696c6d; /* Light Blue */
     --secondary-color: #10b981; /* Green */
     --accent-color: #6ee7b7; /* Light Green */
     
     --text-dark: #1e293b;
-    --text-medium: #475569;
-    --text-light: #64748b;
-    --background: #ffffff;
-    --background-alt: #f0f9ff;
-    --background-dark: #e0f2fe;
-    --border-color: #bae6fd;
+    --text-medium: #4a5361;
+    --text-light: #667181;
+    --background: #F9F9F9;
+    --background-alt: #ececec;
+    --background-dark: #e1e1e1;
+    --border-color: #fcfdfd;
     
     --shadow-sm: 0 1px 2px 0 rgba(14, 165, 233, 0.05);
     --shadow-md: 0 4px 6px -1px rgba(14, 165, 233, 0.1);
