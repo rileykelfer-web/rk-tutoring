@@ -44,6 +44,6 @@ newsletter:
   url: "https://agilechronicles.substack.com/"
 
 # Images
-heroImage: "/images/DSCN0353.JPG"
-authorImage: "/images/IMG_5331.JPG"
+heroImage: "images/DSCN0353.JPG"
+authorImage: "images/IMG_5331.JPG"
 ---
